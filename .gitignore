@@ -1,0 +1,21 @@
+# Ignore datasets and temporary folders
+datasets/
+uploads/
+temp/
+pro/
+
+# Ignore compiled models and virtual environment metadata
+*.pth
+*.pkl
+*.db
+*.zip
+
+# Ignore images and screenshots
+*.jpg
+*.jpeg
+*.png
+
+# Bytecode cache
+__pycache__/
+*.py[cod]
+
